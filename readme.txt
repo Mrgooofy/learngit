@@ -2,3 +2,5 @@ Git is a version control system
 Git is free software.
 
 And the new distributed.
+
+Git has a mutable index called stage.
