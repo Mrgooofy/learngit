@@ -2,3 +2,6 @@ hello.txt
 
 
 hello. again  goto
+
+
+go job !nice 
